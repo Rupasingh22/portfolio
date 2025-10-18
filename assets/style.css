@@ -12,7 +12,7 @@ body {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
+  width: auto;
   z-index: 1000;
   padding: 0 50px;
 }
@@ -153,6 +153,7 @@ h2 {
   color: #ccc;
   font-size: 1.1rem;
   line-height: 1.8;
+  font-family: 'Open Sans', sans-serif;
 }
 
 /* ===== Education Section ===== */
@@ -165,6 +166,8 @@ h2 {
   color: #00bcd4;
   margin-bottom: 25px;
   text-align: center;
+  font-weight: bold;
+
 }
 
 .education-list {
@@ -202,6 +205,8 @@ h2 {
   font-size: 1.3rem;
   margin-bottom: 5px;
   color: #fff;
+  font-weight: bold;
+
 }
 
 .edu-details p {
@@ -224,6 +229,8 @@ h2 {
   font-size: 2rem;
   color: #00bcd4;
   margin-bottom: 25px;
+  font-weight: bold;
+
 }
 
 .interest-cards {
@@ -254,6 +261,7 @@ h2 {
 .card h4 {
   color: #00bcd4;
   margin-bottom: 30px;
+  font-weight: bold;
 }
 
 .card p {
