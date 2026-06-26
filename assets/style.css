@@ -37,7 +37,6 @@ body {
 }
 /* Navbar Section End */
 
-/* Hero Section Start */
 /* Intro / Hero Section */
 .intro-section {
   height: 100vh;
@@ -125,7 +124,6 @@ h2 {
   font-weight: bold;
 }
 
-/* About Section Start*/
 /* ===== About Section ===== */
 .about-section {
   background-color: #000814;
@@ -399,7 +397,7 @@ h2 {
 .project-grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 30px;
 }
 
